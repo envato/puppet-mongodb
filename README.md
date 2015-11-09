@@ -1,6 +1,8 @@
 # MongoDB Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-mongodb.png)](https://travis-ci.org/boxen/puppet-mongodb)
+[![Build Status](https://travis-ci.org/envato/puppet-mongodb.png)](https://travis-ci.org/envato/puppet-mongodb)
+
+This is the fork of the now defunct (boxen/puppet-mongodb)[https://github.com/boxen/puppet-mongodb)
 
 ## Usage
 

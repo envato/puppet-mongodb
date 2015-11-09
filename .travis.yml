@@ -1,6 +1,7 @@
 ---
 script: "./script/cibuild"
 gemfile: "this/does/not/exist"
+cache: bundler
 sudo: false
 rvm:
   - "2.2.3"
